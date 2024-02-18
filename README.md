@@ -1,0 +1,4 @@
+# What is this Project?
+
+
+This C++ project creates a comprehensive student management system, focusing on storing, manipulating, and reporting student data. It features classes for Address, Date, and Student, each handling specific attributes like student addresses, birth and graduation dates, names, GPA, and credit hours. The system reads student data from a .dat file, processes this information to populate student objects, and generates detailed reports in two formats: a short report listing only student names and a full report that includes complete student details. The application demonstrates object-oriented programming principles, file I/O for data persistence, and dynamic memory management, including constructors, destructors, and friend functions for streamlined output operations. The build and execution process is facilitated by a Makefile, ensuring efficient compilation and clean-up commands.
